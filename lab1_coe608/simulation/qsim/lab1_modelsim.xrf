@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, /home/student1/s364pate/Desktop/COE608/lab1/light.vhd
+source_file = 1, /home/student1/s364pate/Desktop/COE608/lab1/Block1.bdf
+source_file = 1, /home/student1/s364pate/Desktop/COE608/lab1/light.vwf
+source_file = 1, /home/student1/s364pate/Desktop/COE608/lab1/db/lab1.cbx.xml
+source_file = 1, /usr/local/Quartus14.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, /usr/local/Quartus14.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, /usr/local/Quartus14.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, /usr/local/Quartus14.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = Block1
+instance = comp, \f~output , f~output, Block1, 1
+instance = comp, \x1~input , x1~input, Block1, 1
+instance = comp, \x2~input , x2~input, Block1, 1
+instance = comp, \inst4~0 , inst4~0, Block1, 1

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Mar 20 21:59:23 2023
+Quartus II 64-Bit Version : 14.0.2 Build 209 09/17/2014 SJ Full Version
+Revision Name : lab6
+Top-level Entity Name : CPU_TEST_Sim
+Family : Cyclone IV E
+Total logic elements : 716
+    Total combinational functions : 714
+    Dedicated logic registers : 169
+Total registers : 169
+Total pins : 209
+Total virtual pins : 0
+Total memory bits : 10,240
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,209 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'cpuClk'
+Slack : -21.612
+TNS   : -2679.812
+
+Type  : Slow 1200mV 85C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -19.590
+TNS   : -156.132
+
+Type  : Slow 1200mV 85C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -19.549
+TNS   : -155.043
+
+Type  : Slow 1200mV 85C Model Setup 'memClk'
+Slack : -18.468
+TNS   : -280.336
+
+Type  : Slow 1200mV 85C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -14.940
+TNS   : -57.922
+
+Type  : Slow 1200mV 85C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -20.961
+TNS   : -122.245
+
+Type  : Slow 1200mV 85C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -7.404
+TNS   : -51.481
+
+Type  : Slow 1200mV 85C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -6.675
+TNS   : -40.607
+
+Type  : Slow 1200mV 85C Model Hold 'memClk'
+Slack : -2.696
+TNS   : -2.696
+
+Type  : Slow 1200mV 85C Model Hold 'cpuClk'
+Slack : -1.654
+TNS   : -1.654
+
+Type  : Slow 1200mV 85C Model Recovery 'cpuClk'
+Slack : -21.507
+TNS   : -1351.394
+
+Type  : Slow 1200mV 85C Model Removal 'cpuClk'
+Slack : 0.842
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -12.409
+TNS   : -2879.819
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -3.250
+TNS   : -233.834
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpuClk'
+Slack : -3.000
+TNS   : -181.738
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'memClk'
+Slack : -3.000
+TNS   : -149.147
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -2.882
+TNS   : -174.387
+
+Type  : Slow 1200mV 0C Model Setup 'cpuClk'
+Slack : -19.774
+TNS   : -2447.032
+
+Type  : Slow 1200mV 0C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -18.490
+TNS   : -146.110
+
+Type  : Slow 1200mV 0C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -18.456
+TNS   : -145.050
+
+Type  : Slow 1200mV 0C Model Setup 'memClk'
+Slack : -16.948
+TNS   : -251.471
+
+Type  : Slow 1200mV 0C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -14.132
+TNS   : -54.689
+
+Type  : Slow 1200mV 0C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -19.237
+TNS   : -112.086
+
+Type  : Slow 1200mV 0C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -6.623
+TNS   : -45.393
+
+Type  : Slow 1200mV 0C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -5.970
+TNS   : -35.788
+
+Type  : Slow 1200mV 0C Model Hold 'memClk'
+Slack : -2.426
+TNS   : -2.426
+
+Type  : Slow 1200mV 0C Model Hold 'cpuClk'
+Slack : -1.473
+TNS   : -1.473
+
+Type  : Slow 1200mV 0C Model Recovery 'cpuClk'
+Slack : -19.625
+TNS   : -1228.689
+
+Type  : Slow 1200mV 0C Model Removal 'cpuClk'
+Slack : 0.773
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -11.509
+TNS   : -2628.441
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpuClk'
+Slack : -3.000
+TNS   : -181.694
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'memClk'
+Slack : -3.000
+TNS   : -147.431
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -2.986
+TNS   : -206.411
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -2.561
+TNS   : -155.034
+
+Type  : Fast 1200mV 0C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -10.692
+TNS   : -78.147
+
+Type  : Fast 1200mV 0C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -10.668
+TNS   : -77.815
+
+Type  : Fast 1200mV 0C Model Setup 'cpuClk'
+Slack : -10.242
+TNS   : -1258.617
+
+Type  : Fast 1200mV 0C Model Setup 'memClk'
+Slack : -8.876
+TNS   : -94.772
+
+Type  : Fast 1200mV 0C Model Setup 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -8.238
+TNS   : -30.836
+
+Type  : Fast 1200mV 0C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -10.585
+TNS   : -61.298
+
+Type  : Fast 1200mV 0C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -3.896
+TNS   : -28.003
+
+Type  : Fast 1200mV 0C Model Hold 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -3.447
+TNS   : -21.669
+
+Type  : Fast 1200mV 0C Model Hold 'memClk'
+Slack : -1.728
+TNS   : -1.728
+
+Type  : Fast 1200mV 0C Model Hold 'cpuClk'
+Slack : -0.999
+TNS   : -0.999
+
+Type  : Fast 1200mV 0C Model Recovery 'cpuClk'
+Slack : -10.221
+TNS   : -625.014
+
+Type  : Fast 1200mV 0C Model Removal 'cpuClk'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[0]'
+Slack : -5.933
+TNS   : -1251.683
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpuClk'
+Slack : -3.000
+TNS   : -144.308
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'memClk'
+Slack : -3.000
+TNS   : -82.283
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[29]'
+Slack : -1.626
+TNS   : -78.062
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|Data_Path:dat|register32:IR|Q[28]'
+Slack : -1.360
+TNS   : -49.870
+
+------------------------------------------------------------
